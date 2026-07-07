@@ -33,7 +33,6 @@ If you have Git installed, clone the repository:
 
 ```bash
 git clone https://github.com/Anas-AbdelRaoof/CLISIPY.git
-cd CLISIPY
 ```
 
 ### Option 2: Download as ZIP
