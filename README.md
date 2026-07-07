@@ -1,4 +1,8 @@
-https://github.com/user-attachments/assets/0796a257-da3e-4d6e-871d-f355cd5d1986
+
+
+
+<img width="500" height="500" alt="Pseutocode-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/a418522b-a1b2-4e06-9fb6-8481ba3e91eb" />
+
 
 # Pseutocode
 
