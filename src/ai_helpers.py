@@ -4,7 +4,7 @@ try:
     from groq import Groq
 except ModuleNotFoundError: # If there is no GQOR_API_KEY
     print("[red]No API key created, Please make QROQ_API_KEY in .env file[/red]")
-    exit()
+    exit() # To avoid Python errors
 import os
 from dotenv import load_dotenv
 from system_prompt import system_prompt
