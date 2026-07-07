@@ -1,7 +1,7 @@
 
 
 
-<img width="800" height="800" alt="CLISIPY" src="https://github.com/user-attachments/assets/d3d621d7-0a8b-42af-8872-c9411d4ccdb4" />
+<img width="55" height="500" alt="CLISIPY" src="https://github.com/user-attachments/assets/d3d621d7-0a8b-42af-8872-c9411d4ccdb4" />
 
 
 
