@@ -52,7 +52,12 @@ cd Pseutocode
 2. Install dependencies:
 ```bash
 python3 -m venv venv
+```
+```bash
 source venv/bin/activate
+```
+
+```bash
 pip install -r requirements.txt
 ```
 
