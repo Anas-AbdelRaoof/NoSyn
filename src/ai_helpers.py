@@ -4,8 +4,7 @@ try:
     from dotenv import load_dotenv
     from rich import print
 except ModuleNotFoundError:
-    print("Please download requirements.txt by <pip install -r requirements.txt --break-system-packages>")
-    exit()
+    exit("Please download requirements.txt by <pip install -r requirements.txt --break-system-packages>")
 import os
 from system_prompt import system_prompt
 
