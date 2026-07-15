@@ -8,7 +8,7 @@ import json
 
 
 def read_file():
-    """Reads the file and uses other functions to handel errors"""
+    """Reads the file and uses other functions to handle errors"""
 
     try:
         pseudocode_file = argv[1]  # The text file that contains pseudocode
